@@ -1,4 +1,4 @@
-![Screenshot (76)](https://github.com/AnuskaSahu1996/LinkedIn_Job_Search_Analysis/assets/144818919/73418d66-4645-4e6a-9f05-67ddbe4ce2e6)![Screenshot (78)](https://github.com/AnuskaSahu1996/LinkedIn_Job_Search_Analysis/assets/144818919/bc5ba32b-9cb2-4b45-9263-dae64abc6b0a)# LinkedIn_Job_Search_Analysis
+# LinkedIn_Job_Search_Analysis
 
 Hello everyone!
 
@@ -12,38 +12,42 @@ This dataset is an Excel file which is given by coachx for LinkedIn job search d
 Provided a rotating card for total company name, designation, industry, total applicant. used a scroller for total job opening against total applicants by company name. Used stacked bar chart, stacked column chart, pie chart, rotating card for a short overview of the dataset on first page. Divided the dataset into 3 categories i.e., skill based, applicant based, company based. Used various types of charts like pie chart, bar chart, table, stacked bar chart etc for each category analysis.
 
 # 3. 📋 Insights:
-
-![Screenshot (76)](https://github.com/AnuskaSahu1996/LinkedIn_Job_Search_Analysis/assets/144818919/36e2dc2d-1f99-440b-bb13-eed74ab8b2aa)
-
-![Screenshot (77)](https://github.com/AnuskaSahu1996/LinkedIn_Job_Search_Analysis/assets/144818919/30c0de22-fd9a-45a3-9d2a-eb4fa304d6ab)
+![Screenshot (76)](https://github.com/AnuskaSahu1996/LinkedIn_Job_Search_Analysis/assets/144818919/1a1d96c9-4158-4759-897a-a28a63953412)
 
 Total company name: 11
+
 Total designation- 384
+
 Total industry- 4
+
 Total applicant - 19K
+
 Sum of employee count- 4M
+
 Total Involvement count - 4
+
 Total levels - 2
   
 📌 There are 4 types of involvement is there i.e., entry level (307), mid-senior level (485), associate (16), director (3). In total (709) IT services and IT consulting, (97) real estate, (3) telecommuncation2) technology, information and internet.
+![Screenshot (77)](https://github.com/AnuskaSahu1996/LinkedIn_Job_Search_Analysis/assets/144818919/cb0537a9-a48b-4d0a-81e0-4612b283676c)
 
-![Screenshot (78)](https://github.com/AnuskaSahu1996/LinkedIn_Job_Search_Analysis/assets/144818919/da39a67c-59f1-4fda-b945-b84813bb8d0d)
 
 
 📌 As per the skill analysis, most vacancies are in AI (704), UI (672), Excel(236). In Mid senior position 1790 vacancies are there. most vacancies present in Uplers company. 2.6K vacancies are there in IT services and IT consulting industry.
 
-![Screenshot (79)](https://github.com/AnuskaSahu1996/LinkedIn_Job_Search_Analysis/assets/144818919/ad18fd65-1680-4498-a187-cc3a48e936cd)
+
+![Screenshot (78)](https://github.com/AnuskaSahu1996/LinkedIn_Job_Search_Analysis/assets/144818919/5c85962a-a5ce-4b24-b9d2-4623893c0dfa)
 
 
 📌 As per the applicant analysis, most applicant applied in IDESLABS private limited, for project manager position, from Maharashtra, in IT services and IT consulting industry, for class 3 and 4, for mid senior, for full time.
 
-![Screenshot (80)](https://github.com/AnuskaSahu1996/LinkedIn_Job_Search_Analysis/assets/144818919/23add5c1-75f7-44b0-8177-eecb98f160eb)
-
+![Screenshot (79)](https://github.com/AnuskaSahu1996/LinkedIn_Job_Search_Analysis/assets/144818919/6b151842-042f-446b-beb8-11ef1c836244)
 
  📌 In Company wise analysis, the outcome is as per each skill in every company and total applicant applied in their company. And analyzed level wise, class wise, involvement wise, industry wise, location wise also.
+![Screenshot (80)](https://github.com/AnuskaSahu1996/LinkedIn_Job_Search_Analysis/assets/144818919/7f54459e-87a8-4758-999d-ec6d7237970a)
 
- ![Screenshot (81)](https://github.com/AnuskaSahu1996/LinkedIn_Job_Search_Analysis/assets/144818919/ac3c3934-d2dd-4c2a-964e-796ecfe9b523)
-![seach job](https://github.com/AnuskaSahu1996/LinkedIn_Job_Search_Analysis/assets/144818919/e52e0906-71b4-4ef8-81a0-6e4119b869ab)
+![Screenshot (81)](https://github.com/AnuskaSahu1996/LinkedIn_Job_Search_Analysis/assets/144818919/d16b5084-91fd-4fed-aea2-357b69d5095e)
+
 
 
 # 📍 Conclusion:
